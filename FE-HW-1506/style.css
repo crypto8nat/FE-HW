@@ -1,0 +1,11 @@
+p {
+    padding: 21px;
+    margin: 10px;
+    background-color: #34495E;
+    border-radius: 20px;
+    color: lightblue;
+}
+.image_conteiner img {
+    max-width: 350;
+
+}
