@@ -5,10 +5,11 @@
 
 }
 h1 {
+    font-size: 3em;
     text-align: center;
 }
 
-.image_container img { 
+.image img { 
         width: 350px; 
         height: 200px;
 }
@@ -19,5 +20,5 @@ h1 {
     border: 1px solid black ;
     border-radius: 20px;
     color: black;
-    text-align: center
+    padding-left: 15%;
 }
